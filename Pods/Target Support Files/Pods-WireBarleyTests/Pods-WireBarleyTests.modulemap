@@ -1,0 +1,6 @@
+framework module Pods_WireBarleyTests {
+  umbrella header "Pods-WireBarleyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
